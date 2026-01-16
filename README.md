@@ -11,6 +11,8 @@ Este projeto representa minha evolução prática no uso do Power BI e meu inter
 ## Próximos passos:
 Foco em aprofundar os conhecimentos em SQL, PowerBI, e Python
 
+## LINK DO PROJETO:
 
+https://app.powerbi.com/groups/me/reports/67ef9627-0b67-4efb-9d64-a2a5e71b86f3/9fe17452bcb5d0d10d74?experience=power-bi
 
 
